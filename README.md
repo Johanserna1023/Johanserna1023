@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Elvis Johan Serna V</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student technology in analysis and software development SENA🌟.</h3>
 
 <br>
 
